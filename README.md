@@ -3,7 +3,7 @@ Permutation Checker is a Java console program that accepts two strings as input 
 
 # Technologies Used
 * Java
-* Eclipse Java
+* Eclipse IDE for Java Developers
 
 # Notes
 * This program should be run using a Java console.
